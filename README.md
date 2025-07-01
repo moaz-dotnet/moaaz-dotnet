@@ -31,12 +31,6 @@
 I'm still learning and growing, and this GitHub profile will reflect my journey.  
 Soon, I will start pushing mini-projects, code samples, and my progress publicly.
 
-Stay tuned!
-"""
 
-# Save the content to a README.md file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
 
-readme_path
+
