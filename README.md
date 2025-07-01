@@ -1,6 +1,6 @@
 # moaaz-dotnet
-# Create a README.md file content with appropriate formatting for Moaz's GitHub profile
-readme_content = """
+
+
 # 👋 Hi, I'm Moaz
 
 🎓 I'm a 2nd-year Computer Science student from Egypt  
